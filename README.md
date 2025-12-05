@@ -117,6 +117,7 @@ UDP offers lower latency at the cost of reliability and delivery guarantees.
 | Implementation complexity | Low | Higher |
 | Typical use cases | Chats, HTTP, FTP, email | Games, VoIP, streaming, live data |
 
+
 ### 🇵🇱 Polish version below ⬇️
 
 # 💬 TCP Multithreaded Chat
